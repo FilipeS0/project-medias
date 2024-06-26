@@ -27,3 +27,11 @@ section#phone {
     width: 311px;
     background: url(../pacote-d013/imagens/frame-iphone.png) no-repeat;
 }
+
+iframe#screen {
+    position: relative;
+    top: 80px;
+    left: 22px;
+    height: 471px;
+    width: 269px;
+}
